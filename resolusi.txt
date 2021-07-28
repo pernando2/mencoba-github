@@ -1,0 +1,3 @@
+ini adalah daftar resolusi saya
+1. belajar laravel
+2. belajar real time app
